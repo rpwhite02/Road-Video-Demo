@@ -1,0 +1,41 @@
+{
+  "1776986956411": {
+    "originalName": "Screenshot 2026-04-23 162703.png",
+    "fileName": "1776986956411.png",
+    "size": 415820,
+    "url": "${appResourceUrl}/images/widget_67/1776986956411.png",
+    "created": 1776986956411,
+    "resourcesPrefix": "images/widget_67",
+    "referredIds": [],
+    "originId": "1776986956411",
+    "fileFormat": "image/png",
+    "originalWidth": 1900,
+    "originalHeight": 195
+  },
+  "1776986966972": {
+    "originalName": "Screenshot 2026-04-23 162735.png",
+    "fileName": "1776986966972.png",
+    "size": 14778,
+    "url": "${appResourceUrl}/images/widget_68/1776986966972.png",
+    "created": 1776986966972,
+    "resourcesPrefix": "images/widget_68",
+    "referredIds": [],
+    "originId": "1776986966972",
+    "fileFormat": "image/png",
+    "originalWidth": 167,
+    "originalHeight": 112
+  },
+  "1776987259904": {
+    "originalName": "Screenshot 2026-04-23 162804.png",
+    "fileName": "1776987259904.png",
+    "size": 144862,
+    "url": "${appResourceUrl}/images/widget_69/1776987259904.png",
+    "created": 1776987259904,
+    "resourcesPrefix": "images/widget_69",
+    "referredIds": [],
+    "originId": "1776987259904",
+    "fileFormat": "image/png",
+    "originalWidth": 735,
+    "originalHeight": 255
+  }
+}

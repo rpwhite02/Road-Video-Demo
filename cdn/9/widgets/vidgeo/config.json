@@ -1,0 +1,12 @@
+{
+  "configVersion": "1.5",
+  "autoplay": false,
+  "muteOnStartup": false,
+  "displayViewDirectionIndicator": true,
+  "fullscreenToggle": true,
+  "pictureInPictureToggle": true,
+  "enableSelectOnFeatureClick": true,
+  "videoSources": [],
+  "displayToolbar": false,
+  "hideGraphicsWhenNotVisible": true
+}

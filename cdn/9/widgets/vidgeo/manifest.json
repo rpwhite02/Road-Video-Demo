@@ -1,0 +1,39 @@
+{
+  "name": "vidgeo",
+  "label": "Vidgeo",
+  "type": "widget",
+  "version": "3.3.8",
+  "exbVersion": "1.18.0",
+  "author": "Nodeology, LLC",
+  "description": "Widget for playback of spatially-enabled videos in ArcGIS Experience Builder.",
+  "copyright": "© 2026 Nodeology, LLC",
+  "license": "This software is licensed for free use in non-production environments, including testing, development, and marketing. Use in production environments or for revenue-generating purposes requires an active, paid subscription. By using this software, you agree to the following terms: (1) Non-production use is defined as any use where the software is not directly or indirectly generating revenue or supporting production operations. (2) Production use includes, but is not limited to, deployment in environments where the software is used for commercial purposes or supports any revenue-generating activities. (3) Unauthorized production use constitutes a breach of this license and may result in termination of access to the software. Nodeology, LLC reserves all rights not expressly granted under this license.",
+  "properties": {
+    "dataSource": {
+      "constraints": {
+        "type": "polyline"
+      }
+    }
+  },
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 800,
+    "height": 500
+  },
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "publishMessages": [
+    "DATA_RECORDS_SELECTION_CHANGE"
+  ],
+  "messageActions": [
+    {
+      "name": "view-selection",
+      "label": "View Selection",
+      "description": "Enables the Seek to Selected Features and View Selected Features options.",
+      "uri": "runtime/MessageActions/SeekToSelectedFeatureMessageAction"
+    }
+  ]
+}
